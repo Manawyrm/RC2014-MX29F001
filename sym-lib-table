@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name WDC65xx)(type Legacy)(uri ${KIPRJMOD}/WDC65xx.lib)(options "")(descr ""))
+)

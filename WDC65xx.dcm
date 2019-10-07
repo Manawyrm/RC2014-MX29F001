@@ -1,0 +1,14 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RC2014BUS
+D RC2014 Bus-Connector
+F https://rc2014.co.uk/1377/module-template/
+$ENDCMP
+#
+$CMP W65C22
+D Versatile Interface Adapter (VIA), 44-QFP
+K VIA,6522,65C22
+F https://eater.net/datasheets/w65c22.pdf
+$ENDCMP
+#
+#End Doc Library
