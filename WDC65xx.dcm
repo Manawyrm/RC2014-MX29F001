@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 29F001B
+D 1M-BIT [128K x 8] CMOS FLASH MEMORY
+F https://cdn.datasheetspdf.com/pdf-down/M/X/2/MX29F001BTC_Macronix.pdf
+$ENDCMP
+#
 $CMP RC2014BUS
 D RC2014 Bus-Connector
 F https://rc2014.co.uk/1377/module-template/
